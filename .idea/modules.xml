@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea/.idea/.idea.iml" filepath="$PROJECT_DIR$/.idea/.idea/.idea/.idea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/electrochip-html/.idea/electrochip-html.iml" filepath="$PROJECT_DIR$/electrochip-html/.idea/electrochip-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/electrochip-html.iml" filepath="$PROJECT_DIR$/.idea/electrochip-html.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hw2-afterr.iml" filepath="$PROJECT_DIR$/.idea/hw2-afterr.iml" />
     </modules>
   </component>
