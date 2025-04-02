@@ -445,12 +445,33 @@
       </div>
     </div>
   </footer>
-  <!-- footer section -->
 
+<script>
+  // Set a value in local storage
+  localStorage.setItem('key', 'value');
 
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/bootstrap.js"></script>
+  // Get a value from local storage
+  var value = localStorage.getItem('key');
 
+  // Remove a value from local storage
+  localStorage.removeItem('key');
+
+  // Clear all values from local storage
+  localStorage.clear();
+
+  // Set a value in session storage
+  sessionStorage.setItem('key', 'value');
+
+  // Get a value from session storage
+  var value = sessionStorage.getItem('key');
+
+  // Remove a value from session storage
+  sessionStorage.removeItem('key');
+
+  // Clear all values from session storage
+  sessionStorage.clear();
+</script>
 </body>
+</html>
 
 </html>
